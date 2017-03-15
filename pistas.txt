@@ -1,0 +1,3 @@
+Interlagos;Brasil;70
+Imola;Italia;60
+Indianapolis;EUA;50
